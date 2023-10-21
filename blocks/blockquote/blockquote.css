@@ -6,7 +6,8 @@
 
 .blockquote blockquote {
   margin: 0;
-  text-indent: 20;
+  color: white;
+  text-indent: 60;
   padding: 0 32px;
 }
 
