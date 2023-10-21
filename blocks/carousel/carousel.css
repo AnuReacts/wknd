@@ -33,7 +33,7 @@ main .carousel > div {
   flex-shrink: 0;
   scroll-snap-align: start;
   position: relative;
-  min-height: 580px;
+  min-height: 200px;
   align-items: flex-end;
   display: flex;
 }
@@ -41,7 +41,7 @@ main .carousel > div {
 main .carousel div.carousel-text {
   max-width: 1200px;
   margin: 0 auto;
-  background-color: white;
+  background-color: rgb(139, 82, 197);
   min-height: 188px;
   padding: 0 28px;
 }
