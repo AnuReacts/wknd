@@ -42,7 +42,7 @@ main .carousel div.carousel-text {
   max-width: 1200px;
   min-width: 1000px;
   margin: 0 auto;
-  background-color: rgb(193, 154, 233);
+  background-color: linear-gradient(#7c448c,#b06cbc);
   min-height: 100px;
   padding: 0 28px;
 }
